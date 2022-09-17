@@ -1,5 +1,8 @@
 <img src="https://i.ibb.co/QCWb3m9/sf.png">
 
+
+
+Note: Run CSGO INJECT first!
 Features list:
 
 AIMBOT:
